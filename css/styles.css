@@ -1,0 +1,410 @@
+html {
+    box-sizing:border-box;
+}
+
+*, *:before, *:after {
+    box-sizing:inherit;
+}
+
+img {
+    max-width: 100%;
+    max-height:Auto;
+}
+
+.spacer {
+  padding: 50px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+.navigation ul{
+    list-style:none;
+    display:flex;
+    justify-content:center;
+    border:solid;
+    border-color: maroon;
+    background-color: maroon;
+
+
+    padding-top:25px;
+    padding-bottom: 25px;
+   
+  font-size:20px;
+  text-decoration:none;
+  
+    }
+    .navigation li {
+        display:inline;
+        margin-right:100px;
+        text-decoration:none;}
+        
+   .ambassador-header{
+    padding-left: 200px;
+    padding-right: 50px;
+    font-size: 50px;
+    color:maroon;
+    }    
+
+      .history-header{
+        padding-left: 475px;
+        padding-right: 50px;
+        font-size: 40px;
+        color:maroon;
+        font-weight: lighter;
+
+      }
+
+
+
+      .tnb-header{
+        padding-left: 400px;
+        padding-right: 50px;
+        font-size: 40px;
+        color:maroon;
+        font-weight: lighter;
+    
+      }
+      .tnbPARAGRAPH1{
+      
+        padding-left: 500px;
+        
+
+      }
+      .tnbPARAGRAPH2{
+        padding-left: 350px;
+      }
+      .tnbPizzaPARAGRAPH3{
+
+        padding-left: 350px;
+        padding-right: 350px;
+
+      }
+
+      .tnbPizzaPARAGRAPH4{
+
+        padding-left: 518px;
+        padding-right: 350px;
+
+      }
+      .tnbPizzaPARAGRAPH5{
+
+        padding-left: 350px;
+        padding-right: 350px;
+
+      }
+
+      .CI-header{
+
+        padding-left: 380px;
+        padding-right: 50px;
+        font-size: 40px;
+        color:maroon;
+        font-weight: lighter;
+
+      }
+
+      .cookinginstructions{
+
+        padding-left: 350px;
+        padding-right: 350px;
+
+      }
+
+      .border1 {
+        border:solid;
+        padding-left: 25px;
+        padding-right: 25px;
+        padding-top: 25px;
+    }
+
+      .border2{
+
+        border:solid;
+     
+        
+      }
+      
+
+
+
+
+
+.HistoryPARAGRAPH{ 
+
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-bottom: 25px;
+
+}
+
+      .cfb-header{
+        padding-left: 385px;
+        padding-right: 50px;
+        font-size: 40px;
+        color:maroon;
+        font-weight: lighter;
+
+      }
+      .cbfPARAGRAPH{
+        padding-left: 25px;
+        padding-right: 25px;
+        padding-bottom: 25px;
+
+      }
+
+
+
+    .photo-header{
+
+      padding-left: 475px;
+        padding-right: 50px;
+        font-size: 40px;
+        color:maroon;
+        font-weight: lighter;
+    }
+
+
+
+.food-name{
+padding-left: 50px;
+padding-right: 50px;
+font-size:20px
+
+}
+
+.food-description{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+  .pizza{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+   
+    ;
+  }
+
+  .pizzaPARAGRAPH1{
+    padding-left: 275px;
+   
+  }
+  .pizza-header{
+
+      padding-left: 475px;
+      padding-right: 50px;
+      font-size: 50px;
+      color:maroon;}
+  
+  
+
+  .food-price{
+    padding-left: 50px;
+    color: maroon;
+    font-weight: bold;
+
+  }
+
+  .INTRO{
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+
+  .History{
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+
+ 
+    
+
+ 
+
+  
+    
+    
+    .Appetizers{
+      padding-left: 25px;
+      padding-right: 25px;
+      padding-top: 25px;
+
+    }
+
+  
+    .appetizers-header{
+  
+    padding-left: 400px;
+    padding-right: 50px;
+    font-size: 50px;
+    color:maroon;}
+   
+  
+  .cocktail-header{
+    padding-left: 400px;
+    padding-right: 50px;
+    font-size: 50px;
+    color:maroon;
+
+  }
+
+  .Cocktails{
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 25px;
+
+  }
+
+
+  .cocktailPARAGRAPH1 {
+    padding-left: 300px;
+    
+
+  }
+  .pasta-header {
+    padding-left: 475px;
+    padding-right: 50px;
+    font-size: 50px;
+    color:maroon;
+
+  }
+
+
+  .Pasta {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 25px;
+
+  }
+.PastaPARAGRAPH1 {
+
+  padding-left: 300px;
+
+}
+.Salads {
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 25px;
+
+}
+
+.saladPARAGRAPH1 {
+
+  padding-left: 150px;
+
+}
+
+  .salad-header {
+
+    padding-left: 475px;
+    padding-right: 50px;
+    font-size: 50px;
+    color:maroon;
+  }
+
+  .sandwich-header {
+
+    padding-left: 400px;
+    padding-right: 50px;
+    font-size: 50px;
+    color:maroon;
+  }
+
+  .Sandwiches {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 25px;
+}
+
+
+.SandwichesPARAGRAPH1 {
+
+  padding-left: 325px;
+
+}
+
+  .border {
+
+    border:solid;
+   padding-bottom: 0px;
+   
+  }
+
+
+.contact-hours {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 25px;
+    padding-bottom: 0px;
+    
+  } 
+  .ContactandHoursPARAGRAPH {
+    grid-row-start: 2;
+  }
+
+  .ContactandHoursPARAGRAPH2 {
+    padding-left: 00px;
+    padding-right: 25px;
+    grid-row-start: 3;
+    padding-top: 25px;
+    padding-bottom:25px;
+
+ 
+
+    
+
+  }
+
+.grid {
+  display: grid;
+  grid-template-columns : 70% 30%;
+  background-color: maroon;
+  grid-row-gap: 10px;
+
+   
+
+}
+ .contact-head {
+      grid-row-start: 1;
+    }
+  
+
+
+
+  .map{
+    padding: 25px;
+    margin-top: 50px;
+    position:relative;
+    grid-column-start: 2;
+    grid-row-start: 1;
+    grid-row-end: 4;
+    background-color: maroon;
+ 
+
+  }
+
+
+
+
+    
+ .photo-header{
+
+    height: 70%;
+    Max-width: 70%;
+    position:relative;
+    left:-40px;
+    text-align: center;
+   }
+
+
+
+  .mainimage{
+    height:100%;
+    Max-width:1000%;
+  }
+
+  .topguys{
+text-decoration: none;
+ }
